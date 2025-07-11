@@ -1,0 +1,6 @@
+{
+  "target": "crm.record.sidebar",
+  "title": "School Leader Assignment",
+  "objectTypes": ["p23384537_district_programs"],
+  "module": "leader-card"
+}
